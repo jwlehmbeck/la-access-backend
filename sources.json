@@ -1,0 +1,16 @@
+[
+  {"url": "https://www.discoverlosangeles.com/accessibility",
+   "need": ["mobility","vision","hearing"]},
+
+  {"url": "https://www.metro.net/riding/accessibility/",
+   "need": ["mobility","vision","hearing","sensory"]},
+
+  {"url": "https://www.sofistadium.com/plan-your-visit/know-before-you-go/ada",
+   "need": ["mobility"]},
+
+  {"url": "https://disneyland.disney.go.com/guest-services/guests-with-disabilities/",
+   "need": ["mobility","sensory"]},
+
+  {"url": "https://www.getty.edu/visit/accessibility/",
+   "need": ["mobility","vision","hearing"]}
+]
